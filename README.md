@@ -206,7 +206,7 @@ JWT Authentication • RBAC • Rate Limiting • Encryption • Secure API Desi
 # 🌊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0f2027&hide_border=true&color=14F1D9&line=14F1D9"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WaqarAnjum2&theme=react-dark&bg_color=0f2027&hide_border=true&color=14F1D9&line=14F1D9"/>
 </p>
 
 ---
