@@ -1,114 +1,222 @@
-<!-- Animated Gradient Banner -->
+<!-- TEAL GRADIENT HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Waqar%20%7C%20Full%20Stack%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0f9b8e,100:2c5364&height=260&section=header&text=Waqar%20%7C%20Software%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<!-- Animated Typing Intro -->
+<!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Mobile+App+Architect;AI+Integration+Specialist;Cybersecurity+Focused+Developer;Building+Secure+%26+Scalable+Systems"/>
-</p>
-
----
-
-## 🌟 About Me
-
-🚀 I design and build **secure, scalable, and intelligent digital ecosystems**.  
-🔐 Security-first architecture.  
-⚡ Performance-optimized systems.  
-🧠 AI-powered integrations.  
-📱 Cross-platform & native mobile applications.  
-
-I don’t just write code — I engineer production-grade systems.
-
----
-
-## 🎨 Tech Universe
-
-### 🌐 Frontend
-![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-
----
-
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-
----
-
-### ⚙ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-
----
-
-### 🗄 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-
----
-
-### 🔐 Security & Architecture
-- JWT Authentication  
-- Role-Based Access Control (RBAC)  
-- Redis Rate Limiting  
-- Secure REST APIs  
-- SSR & Performance Engineering  
-- Scalable Modular Architecture  
-
----
-
-## 🚀 Featured Systems
-
-🔥 **Advanced Restaurant Platform**  
-Next.js + PostgreSQL + Redis + SSR + Rate Limiting
-
-🎓 **University ERP / FYP Management System**  
-Multi-role academic workflow system
-
-🛒 **Full E-Commerce Ecosystem**  
-Laravel + MySQL + Secure Checkout
-
-🚗 **Car Rental SaaS Platform**  
-Scalable architecture + caching layer
-
-📦 **Cloud Inventory Android App**  
-Offline sync + PostgreSQL + Redis
-
-👨‍💼 **Enterprise HR Platform**  
-Flutter + Next.js + Secure REST APIs
-
----
-
-## 📊 Live GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" height="170"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=14F1D9&center=true&vCenter=true&width=750&lines=Full+Stack+Architect;Mobile+App+Engineer;AI+Integration+Specialist;Cybersecurity+Focused+Developer;Scalable+System+Designer"/>
 </p>
 
 ---
 
-## 🌈 Contribution Graph
+# 🧠 About Me
+
+I build **secure, scalable, and intelligent software ecosystems** engineered for performance and long-term maintainability.
+
+🔹 Full Stack Web Architect  
+🔹 Cross-Platform & Native Mobile Developer  
+🔹 AI Systems Integrator  
+🔹 Cybersecurity & Secure Infrastructure Engineer  
+🔹 Production-Ready System Designer  
+
+My focus:  
+**Security • Scalability • Performance • Clean Architecture**
+
+---
+
+# 🚀 Featured Projects (Detailed)
+
+---
+
+## 🔥 Zoiro Broast – Advanced Restaurant Platform  
+🌐 https://zoirobroast.me  
+
+High-performance fast-food management ecosystem engineered using modern SSR architecture.
+
+### 🏗 Architecture
+- Next.js (Server-Side Rendering)
+- PostgreSQL (Optimized relational schema)
+- Redis (Rate limiting + caching layer)
+- Secure REST APIs
+
+### ⚡ Core Features
+- Real-time order processing
+- Admin control dashboard
+- Redis-based request throttling
+- High-performance SSR rendering
+- Secure session management
+- Scalable microservice-ready design
+
+### 🔐 Performance & Security
+- Redis caching layer
+- Indexed database queries
+- API-level rate limiting
+- Secure authentication flow
+
+---
+
+## 🎓 University FYP Management System  
+🌐 https://cuivehari.online  
+
+Enterprise-level academic ERP managing Semester 6, 7 & 8 workflows.
+
+### 🏗 Tech Stack
+- PHP (Modular backend logic)
+- MySQL (Normalized schema)
+- AJAX + PJAX dynamic loading
+- Bootstrap + Vanilla JS
+
+### 👥 Role-Based System
+- Student
+- Admin
+- Supervisor
+- Internal Evaluator
+- External Evaluator
+
+### ⚙ Features
+- Proposal submission & approval
+- Multi-stage evaluation system
+- Document uploads
+- Role-based dashboards
+- Semester progression control
+
+---
+
+## 🍰 Tohfa Sweets & Nazarah Cafe Platform  
+🌐 https://tohfasweets.me  
+
+Custom food business website + internal management system.
+
+### Features
+- Product catalog system
+- Admin management panel
+- Custom ordering workflow
+- Backend performance optimization
+- Secure business data handling
+
+---
+
+## 🚗 NextGen Renting – Ali Lajpal Rent A Car  
+
+Scalable rental management platform built on modern architecture.
+
+### Tech Stack
+- Next.js
+- PostgreSQL
+- Redis
+- Secure REST APIs
+
+### Capabilities
+- Car listing management
+- Booking workflow
+- Admin analytics dashboard
+- Redis caching for high traffic
+- Scalable SaaS-ready structure
+
+---
+
+## 📦 Smart Cloud Inventory (Android App)
+
+Cloud-synced inventory management system with hybrid storage model.
+
+### Architecture
+- Native Android
+- PostgreSQL (Cloud DB)
+- Redis (Real-time sync layer)
+- SQLite (Offline-first storage)
+
+### Features
+- Offline data support
+- Real-time stock updates
+- Multi-branch support
+- White-label software model
+- Secure cloud synchronization
+
+---
+
+## 👨‍💼 Enterprise HR Management System  
+
+Cross-platform HR platform (Web + Mobile).
+
+### Stack
+- Flutter (Mobile App)
+- Next.js (Web Dashboard)
+- PostgreSQL
+- Redis
+- REST API Layer
+
+### Core Modules
+- Employee lifecycle management
+- Payroll automation
+- Attendance tracking
+- Role-based access control
+- Secure authentication system
+
+---
+
+## 🛒 T4Toys E-Commerce Platform  
+🌐 https://t4toys.me  
+
+Full Laravel-based e-commerce ecosystem.
+
+### Stack
+- Laravel Framework
+- MySQL
+- Secure Payment Integration
+- Admin dashboard
+
+### Capabilities
+- Product catalog management
+- Order processing
+- Inventory tracking
+- Secure checkout workflow
+- Admin analytics
+
+---
+
+# 🛠 Tech Stack
+
+## 🌐 Frontend
+Next.js • React • TailwindCSS • TypeScript • Framer Motion
+
+## 📱 Mobile
+Flutter • React Native • Kotlin • Java
+
+## ⚙ Backend
+Node.js • PHP • Laravel • REST APIs • SSR
+
+## 🗄 Databases
+PostgreSQL • MySQL • Redis • SQLite
+
+## 🔐 Security
+JWT Authentication • RBAC • Rate Limiting • Encryption • Secure API Design
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0D1117&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f2027" height="170"/>
 </p>
 
 ---
 
-## 🧠 Engineering Philosophy
+# 🌊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0f2027&hide_border=true&color=14F1D9&line=14F1D9"/>
+</p>
+
+---
+
+# 🧩 Engineering Principles
 
 ```diff
-+ Security First
-+ Scalable by Design
-+ Clean Modular Code
++ Secure by Design
++ Scalable Architecture
 + AI-Ready Systems
-+ Production-Grade Architecture
++ Clean Modular Code
++ Performance Optimized
++ Production-Grade Standards
