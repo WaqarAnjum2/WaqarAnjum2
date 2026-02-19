@@ -197,8 +197,8 @@ JWT Authentication • RBAC • Rate Limiting • Encryption • Secure API Desi
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f2027" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WaqarAnjum2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaqarAnjum2&theme=tokyonight&hide_border=true&background=0f2027" height="170"/>
 </p>
 
 ---
